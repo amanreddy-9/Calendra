@@ -1,0 +1,254 @@
+[
+  {
+    "id": "quiz-ml",
+    "title": "Quiz 2 — Machine Learning",
+    "date": "2026-09-02",
+    "time": "10:00",
+    "course": "Machine Learning",
+    "status": "tentative",
+    "note": "Discussed with faculty after today's class. Tentative until confirmed.",
+    "creator": {
+      "name": "Rahul Sharma",
+      "credential": "CS-A · 23CSE042"
+    },
+    "createdAt": "2026-08-28T10:12:00.000Z",
+    "updatedAt": "2026-08-29T06:28:37.022Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Rahul Sharma",
+        "at": "2026-08-28T10:12:00.000Z",
+        "by": "Rahul Sharma"
+      },
+      {
+        "action": "updated",
+        "message": "Details updated by Aman Reddy",
+        "at": "2026-08-29T06:28:37.022Z",
+        "by": "Aman Reddy"
+      }
+    ],
+    "eventType": "quiz"
+  },
+  {
+    "id": "dbms-assignment",
+    "title": "DBMS Assignment 3",
+    "date": "2026-09-05",
+    "time": "23:59",
+    "course": "Database Management Systems",
+    "status": "approved",
+    "note": "Submission through the course portal. Faculty confirmed the deadline in class.",
+    "creator": {
+      "name": "Nisha Patel",
+      "credential": "CS-A · 23CSE018"
+    },
+    "createdAt": "2026-08-27T11:40:00.000Z",
+    "updatedAt": "2026-08-27T11:40:00.000Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Nisha Patel",
+        "at": "2026-08-27T11:40:00.000Z",
+        "by": "Nisha Patel"
+      }
+    ],
+    "eventType": "assignment"
+  },
+  {
+    "id": "networks-cat",
+    "title": "Networks CAT 1",
+    "date": "2026-09-11",
+    "time": "09:00",
+    "course": "Computer Networks",
+    "status": "final",
+    "note": "Syllabus: Units 1 and 2. Faculty marked this as final.",
+    "creator": {
+      "name": "Priya Nair",
+      "credential": "CS-A · 23CSE036"
+    },
+    "createdAt": "2026-08-22T05:45:00.000Z",
+    "updatedAt": "2026-08-26T08:50:00.000Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Priya Nair",
+        "at": "2026-08-22T05:45:00.000Z",
+        "by": "Priya Nair"
+      },
+      {
+        "action": "status_changed",
+        "message": "Status changed to Finalized — No Changes by Priya Nair",
+        "at": "2026-08-26T08:50:00.000Z",
+        "by": "Priya Nair"
+      }
+    ],
+    "eventType": "exam"
+  },
+  {
+    "id": "os-practical",
+    "title": "OS Lab Practical",
+    "date": "2026-10-03",
+    "time": "14:00",
+    "course": "Operating Systems Lab",
+    "status": "unverified",
+    "note": "Reported by students after lab discussion; awaiting faculty confirmation.",
+    "creator": {
+      "name": "Karthik S",
+      "credential": "CS-A · 23CSE055"
+    },
+    "createdAt": "2026-08-29T04:35:00.000Z",
+    "updatedAt": "2026-08-29T04:35:00.000Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Karthik S",
+        "at": "2026-08-29T04:35:00.000Z",
+        "by": "Karthik S"
+      }
+    ],
+    "eventType": "viva_lab"
+  },
+  {
+    "id": "2a667c57-35b4-4638-9746-e8d48d587c58",
+    "title": "TQM Quiz",
+    "date": "2026-09-07",
+    "time": "08:30",
+    "course": "Total Quality Management",
+    "status": "final",
+    "note": "Discussed, Approved",
+    "creator": {
+      "name": "Aman Reddy",
+      "credential": "CS-A · 23CSE101"
+    },
+    "createdAt": "2026-08-29T06:13:12.343Z",
+    "updatedAt": "2026-08-29T06:13:12.343Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Aman Reddy",
+        "at": "2026-08-29T06:13:12.343Z",
+        "by": "Aman Reddy"
+      }
+    ],
+    "eventType": "quiz"
+  },
+  {
+    "id": "1a176f82-9bba-4ed4-99b9-86550743ceb2",
+    "title": "QUIZ 1: TQM",
+    "eventType": "quiz",
+    "date": "2026-09-16",
+    "time": "",
+    "course": "TQM",
+    "status": "approved",
+    "note": "",
+    "creator": {
+      "name": "Aman Reddy",
+      "credential": "CS-A · 23CSE101"
+    },
+    "createdAt": "2026-08-29T06:29:12.172Z",
+    "updatedAt": "2026-08-29T06:29:12.172Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Aman Reddy",
+        "at": "2026-08-29T06:29:12.172Z",
+        "by": "Aman Reddy"
+      }
+    ]
+  },
+  {
+    "id": "2d236be8-af9c-42ba-9eca-fbc4a15c22da",
+    "title": "RL Quiz",
+    "eventType": "viva_lab",
+    "date": "2026-09-07",
+    "time": "",
+    "course": "RL",
+    "status": "unverified",
+    "note": "",
+    "creator": {
+      "name": "Aman Reddy",
+      "credential": "CS-A · 23CSE101"
+    },
+    "createdAt": "2026-08-29T06:33:24.351Z",
+    "updatedAt": "2026-08-29T06:33:24.351Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Aman Reddy",
+        "at": "2026-08-29T06:33:24.351Z",
+        "by": "Aman Reddy"
+      }
+    ]
+  },
+  {
+    "id": "d5ba31ae-59e7-41cd-be47-8e3dde61a6ab",
+    "title": "temp",
+    "eventType": "exam",
+    "date": "2026-09-07",
+    "time": "",
+    "course": "mom",
+    "status": "approved",
+    "note": "",
+    "creator": {
+      "name": "Aman Reddy",
+      "credential": "CS-A · 23CSE101"
+    },
+    "createdAt": "2026-08-29T06:33:54.800Z",
+    "updatedAt": "2026-08-29T06:33:54.800Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Aman Reddy",
+        "at": "2026-08-29T06:33:54.800Z",
+        "by": "Aman Reddy"
+      }
+    ]
+  },
+  {
+    "id": "bdb0d5b4-c30b-4eda-a835-e022654fb047",
+    "title": "ee",
+    "eventType": "viva_lab",
+    "date": "2026-09-07",
+    "time": "",
+    "course": "meek",
+    "status": "tentative",
+    "note": "",
+    "creator": {
+      "name": "Aman Reddy",
+      "credential": "CS-A · 23CSE101"
+    },
+    "createdAt": "2026-08-29T06:34:04.263Z",
+    "updatedAt": "2026-08-29T06:34:04.263Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Aman Reddy",
+        "at": "2026-08-29T06:34:04.263Z",
+        "by": "Aman Reddy"
+      }
+    ]
+  },
+  {
+    "id": "710705b3-2c77-43b6-bc2c-eebc1685fb0e",
+    "title": "mlm",
+    "eventType": "project_review",
+    "date": "2026-09-08",
+    "time": "",
+    "course": "k",
+    "status": "approved",
+    "note": "",
+    "creator": {
+      "name": "Aman Reddy",
+      "credential": "CS-A · 23CSE101"
+    },
+    "createdAt": "2026-08-29T06:39:26.714Z",
+    "updatedAt": "2026-08-29T06:39:26.714Z",
+    "history": [
+      {
+        "action": "created",
+        "message": "Event added by Aman Reddy",
+        "at": "2026-08-29T06:39:26.714Z",
+        "by": "Aman Reddy"
+      }
+    ]
+  }
+]

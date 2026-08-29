@@ -1,0 +1,14 @@
+{
+  "name": "calendera",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev": "concurrently \"npm run dev -w @calendera/api\" \"npm run dev -w @calendera/web\"",
+    "dev:api": "npm run dev -w @calendera/api",
+    "dev:web": "npm run dev -w @calendera/web",
+    "start": "npm run start -w @calendera/api",
+    "build": "npm run build -w @calendera/web"
+  },
+  "devDependencies": { "concurrently": "^9.1.2" }
+}
